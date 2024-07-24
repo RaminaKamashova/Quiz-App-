@@ -12,3 +12,5 @@ Here’s what you’ll find in this file:
 PS: This project uses the `fetch` API to load quiz data from the `data.json` file.
 
 •Languages: EN/TR and some russian comments
+
+-2024-
