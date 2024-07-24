@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz_tr</title>
+
+   
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body class="flex">
+    <div class="wrapper">
+       <div class="quiz-container">
+            <div class="quiz-head"></div>
+                <h1 class="quiz-title">Quiz_TR</h1><br>
+                     <span id="category">TARİH</span>
+                    <div class="quiz-score flex">
+                        <span id="correct-score">0</span>/<span id="total-question">10</span>   
+                    </div>
+            </div> 
+            <div class="quiz-body">
+                <h2 class="quiz-question" id="question">What is my name?</h2>
+                    <ul class="quiz-options">
+                        <li id="1">1.Nensi</li> 
+                        <li id="2">2.Brayn</li>
+                        <li id="3">3.Tim</li>
+                        <li id="4">4.Amanda</li>
+                    </ul>
+                    <div id="result"> 
+                    
+                    </div>
+            </div>
+
+            <div class="quiz-foot">
+                <!-- <button onclick="checkAnswer()">Cevabı kontrol et</button> -->
+                <button onclick="playAgain()">Tekrar Oyna </button>
+
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com/quiz_tr_228/"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.tiktok.com/@quiz_tr?is_from_webapp=1&sender_device=pc"><i class="fa-brands fa-tiktok"></i></a>
+                        <a href="https://www.youtube.com/@quiz_tr"><i id="youtube" class="fa-brands fa-youtube"></i></a>    
+                    </div>
+
+                        <div class="footer-bottom">
+                            <p>&copy;2024  Designed by <span class="designer">rmn_228</span></p>
+                        </div>
+            </div>
+        </div>   
+
+    <script src="script.js"></script>
+</body>
+</html>

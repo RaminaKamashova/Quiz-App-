@@ -1,0 +1,102 @@
+[
+        {
+          "question": "Osmanlı İmparatorluğu hangi tarihte kurulmuştur?",
+          "options": [
+            "1299",
+            "1453",
+            "1071",
+            "1923"
+          ],
+          "correct_answer": "1299"
+        },
+        {
+          "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+          "options": [
+            "Mustafa Kemal Atatürk",
+            "Süleyman Demirel",
+            "Abdullah Gül",
+            "Recep Tayyip Erdoğan"
+          ],
+          "correct_answer": "Mustafa Kemal Atatürk"
+        },
+        {
+          "question": "İstanbul'un Fethi hangi yılda gerçekleşmiştir?",
+          "options": [
+            "1071",
+            "1923",
+            "1453",
+            "1299"
+          ],
+          "correct_answer": "1453"
+        },
+        {
+          "question": "Türkiye Cumhuriyeti'nin ilk başkenti neresidir?",
+          "options": [
+            "İstanbul",
+            "Ankara",
+            "İzmir",
+            "Bursa"
+          ],
+          "correct_answer": "Ankara"
+        },
+        {
+          "question": "Mustafa Kemal Atatürk hangi tarihte vefat etmiştir?",
+          "options": [
+            "1938",
+            "1945",
+            "1923",
+            "1960"
+          ],
+          "correct_answer": "1938"
+        },
+        {
+          "question": "Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan padişahı kimdir?",
+          "options": [
+            "Kanuni Sultan Süleyman",
+            "Yavuz Sultan Selim",
+            "Fatih Sultan Mehmet",
+            "II. Abdülhamid"
+          ],
+          "correct_answer": "Kanuni Sultan Süleyman"
+        },
+        {
+          "question": "Türkiye'nin ilk kadın başbakanı kimdir?",
+          "options": [
+            "Tansu Çiller",
+            "Meral Akşener",
+            "Sabiha Gökçen",
+            "Gönül Saray"
+          ],
+          "correct_answer": "Tansu Çiller"
+        },
+        {
+          "question": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+          "options": [
+            "II. Abdülhamid",
+            "VI. Mehmed (Mehmed Vahdettin)",
+            "IV. Murad",
+            "III. Selim"
+          ],
+          "correct_answer": "VI. Mehmed (Mehmed Vahdettin)"
+        },
+        {
+          "question": "Atatürk'ün doğduğu şehir neresidir?",
+          "options": [
+            "Selanik",
+            "Ankara",
+            "İstanbul",
+            "İzmir"
+          ],
+          "correct_answer": "Selanik"
+        },
+        {
+          "question": "Osmanlı İmparatorluğu'nun yükselme döneminde en önemli savaşlardan biri olan Mohaç Meydan Muharebesi hangi tarihte yapılmıştır?",
+          "options": [
+            "1526",
+            "1453",
+            "1517",
+            "1571"
+          ],
+          "correct_answer": "1526"
+        }
+]
